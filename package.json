@@ -14,7 +14,6 @@
     "omggif": "^1.0.5",
     "node-bitmap": "0.0.1",
     "through": "^2.3.4",
-    "request": "^2.44.0",
     "parse-data-uri": "^0.2.0",
     "mime-types": "^2.0.1",
     "data-uri-to-buffer": "0.0.3"
